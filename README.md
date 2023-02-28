@@ -1,4 +1,4 @@
-## Hi there 👋 I'm a Backend developer
+## Hi there 👋 I'm a Back-end developer
 
 <a href="https://www.linkedin.com/in/kirill-chekhlatov/">
   <img align="left" alt="LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
@@ -6,18 +6,18 @@
 
 ## Technology stack
 
-**Back-end**
+## Back-end
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Django](https://img.shields.io/badge/-Django-0aad48?style=flat-square&logo=Django)
 ![Django Rest Framework](https://img.shields.io/badge/DRF-red?style=flat-square&logo=Django)
 ![Django Channels](https://img.shields.io/badge/-Django_Channels-46a2f1?style=flat-square&logo=Django)
 
-**Databases**
+## Databases
 
 ![Postgresql](https://img.shields.io/badge/-Postgresql-%232c3e50?style=flat-square&logo=Postgresql)
 
-**Tools**
+## Tools
 
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FCA121?style=flat-square&logo=postman)
