@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm a Back-end developer
 
 <a href="https://www.linkedin.com/in/kirill-chekhlatov/">
-  <img align="left" alt="LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="LinkedIn" width="22px" src="assets/linkedin.svg" />
 </a>
 
 ## Technology stack
@@ -26,3 +26,8 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+
+## 𝗦𝘁𝗮𝘁𝘀
+
+![Clofolnet github stats](https://github-readme-stats.vercel.app/api?username=Clofolnet&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+![Clofolnet Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Clofolnet&layout=compact&count_private=true&theme=gruvbox)
