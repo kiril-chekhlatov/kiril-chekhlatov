@@ -1,12 +1,5 @@
 ## Hi there 👋 I'm a Back-end developer
 
-## Social Networks
-
-<a href="https://www.linkedin.com/in/kirill-chekhlatov/">
-  <img align="left" alt="LinkedIn" width="22px" src="assets/linkedin.svg" />
-</a>
-</br>
-
 ## Technology stack
 
 **Back-end**
